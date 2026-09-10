@@ -1,1 +1,1 @@
-# -Awesome-Graph-Anomaly-Detection
+# Awesome-Graph-Anomaly-Detection
