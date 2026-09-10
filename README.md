@@ -18,7 +18,7 @@ If your publication is not included here, please email to junyiyan01@163.com
   
 
 
-# Federated Graph Learning
+# Federated Graph Anomaly Detection
 **Survey**
 
   
@@ -41,19 +41,19 @@ If your publication is not included here, please email to junyiyan01@163.com
   
 
 
-# Robust Graph Learning
+# Robust Graph Anomaly Detection
 
 - [TKDE 25] Address Anomalies at Critical Crossroads for Graph Anomaly Detection [[Paper](https://ieeexplore.ieee.org/abstract/document/11183627)] [[Code](https://github.com/Junyi-Yan/STIM)]
 
 - [TKDE 26] FOND: Fine-grained Boundary Mining with Dual Bridging for Fair Graph Anomaly Detection [[Paper](https://ieeexplore.ieee.org/abstract/document/11636210)]
 
 
-# Scalable Graph Learning
+# Scalable Graph Anomaly Detection
 **Survey**
 
 
 **Others**
 - [ICML 26] Rethinking Feature Alignment in Generalist Graph Anomaly Detection: A Relational Fingerprint-based Approach  [[Paper](https://openreview.net/pdf?id=9kkby07AvD)] [[Code](https://github.com/Yujingcn/REFI-GAD-code)]
  
-# Dynamic Graph Learning
+# Dynamic Graph Anomaly Detection
 
