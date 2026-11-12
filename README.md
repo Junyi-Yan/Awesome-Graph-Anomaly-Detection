@@ -10,9 +10,9 @@ If your publication is not included here, please email to junyiyan01@163.com
 
 **Others**
 
-
+- [TIFS 25] Learning Subgraph-Based Normality for Interpretable Graph-Level Anomaly Detection [[Paper](https://ieeexplore.ieee.org/abstract/document/11316097)]
+  
 - [KDD 25] Global Interpretable Graph-level Anomaly Detection via Prototype [[Paper](https://dl.acm.org/doi/pdf/10.1145/3711896.3736983)] [[Code](https://github.com/ZhenyuYangMQ/GLADPro)]
-
 
 - [NeurIPS 23] Towards Self-Interpretable Graph-Level Anomaly Detection [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/1c6f06863df46de009a7a41b41c95cad-Paper-Conference.pdf)] [[Code](https://github.com/yixinliu233/SIGNET)]
   
