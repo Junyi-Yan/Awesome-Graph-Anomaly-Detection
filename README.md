@@ -23,7 +23,7 @@ If your publication is not included here, please email to junyiyan01@163.com
 
   
 **Others**
-
+- [ICML 26] MV-FGAD: Towards Efficient and Effective Federated Graph Anomaly Detection via Multi-view Learning [[Paper](https://openreview.net/forum?id=yBcY0bY45t&noteId=TpmWdQ9IhG)] [[Code](https://github.com/Junyi-Yan/MV-FGAD)]
 
 - [Arxiv 26] FedCIGAR: A Personalized Reconstruction Approach for Federated Graph-level Anomaly Detection [[Paper](https://arxiv.org/pdf/2605.09428)] [[Code](https://github.com/yunf-zhao/FedCIGAR)]
 
